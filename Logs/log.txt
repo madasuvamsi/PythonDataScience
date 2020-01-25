@@ -1,0 +1,6 @@
+
+PythonExceptions.py File  division by zero
+PythonExceptions.py File  invalid literal for int() with base 10: 'dsadsa'
+PythonExceptions.py File  invalid literal for int() with base 10: 'abc'
+PythonExceptions.py File  division by zero
+PythonExceptions.py File  invalid literal for int() with base 10: '20.00000000000000000000000000000000000000000000088888888888888888888888888888888888888888'
