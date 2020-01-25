@@ -1,2 +1,3 @@
 class Employess:
-    pass
+    EmpName="Sam"
+    Empage="25"
