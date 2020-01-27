@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b51672bd-6532-4f4e-9c71-3b5d942f1a71" name="Default" comment="" />
+    <list default="true" id="b51672bd-6532-4f4e-9c71-3b5d942f1a71" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb" afterPath="$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PandasBasics.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pandas/PandasBasics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="PandasBasics.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Getting Started With Pandas.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PandasJupyterNoteBooks/Getting Started With Pandas.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -72,10 +82,11 @@
         <option value="$PROJECT_DIR$/Pandas/PandasGettingStarted.py" />
         <option value="$PROJECT_DIR$/Numpy/GettingStartedwithNumpy.py" />
         <option value="$PROJECT_DIR$/Pandas/PandasBasics.py" />
+        <option value="$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="699" />
@@ -109,6 +120,11 @@
               <item name="PythonDataScience" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDataScience" type="462c0819:PsiDirectoryNode" />
               <item name="Pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDataScience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDataScience" type="462c0819:PsiDirectoryNode" />
+              <item name="PandasJupyterNoteBooks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -253,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -432,17 +448,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PandasJupyterNoteBooks/Getting Started With Pandas.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Numpy/GettingStartedwithNumpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pandas/PandasBasics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -455,11 +472,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas/PandasBasics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/PandasJupyterNoteBooks/Getting Started With Pandas.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
