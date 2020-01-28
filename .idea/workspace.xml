@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="b51672bd-6532-4f4e-9c71-3b5d942f1a71" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PandasJupyterNoteBooks/Getting Started With Pandas.ipynb" afterPath="$PROJECT_DIR$/PandasJupyterNoteBooks/Getting Started With Pandas.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb" afterPath="$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb" />
+    </list>
+=======
     <list default="true" id="b51672bd-6532-4f4e-9c71-3b5d942f1a71" name="Default" comment="" />
+>>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +50,7 @@
         <option value="$PROJECT_DIR$/Numpy/GettingStartedwithNumpy.py" />
         <option value="$PROJECT_DIR$/Pandas/PandasBasics.py" />
         <option value="$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb" />
+        <option value="$PROJECT_DIR$/PandasJupyterNoteBooks/Getting Started With Pandas.ipynb" />
       </list>
     </option>
   </component>
@@ -439,6 +448,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pandas/PandasBasics.py">
+<<<<<<< HEAD
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -497,12 +508,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basics/PythonClasses.py">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+=======
     <entry file="file://$PROJECT_DIR$/area.py" />
     <entry file="file://C:/Program Files (x86)/Python36-32/Lib/tokenize.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -600,6 +618,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
+>>>>>>> master
         </state>
       </provider>
     </entry>
@@ -624,10 +643,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PandasJupyterNoteBooks/PandasBasics.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
+    <entry file="file://$PROJECT_DIR$/Numpy/GettingStartedwithNumpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
